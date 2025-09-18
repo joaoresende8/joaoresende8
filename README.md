@@ -1,6 +1,6 @@
 # João Resende 
 
-### OutSystems Developer
+### OutSystems Developer ⭕
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/joaofresende07/)]([https://www.linkedin.com/in/iuricode/](https://www.linkedin.com/in/joaofresende07/)) 
 [![Gmail Badge](https://img.shields.io/badge/-joaofresende07@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:joaofresende07@gmail.com)](mailto:joaofresende07@gmail.com)
